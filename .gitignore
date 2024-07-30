@@ -1,0 +1,5 @@
+.DS_Store
+.idea
+__pycache__
+#/date_generator/
+#date_processor/__pycache__
